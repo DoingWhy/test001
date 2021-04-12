@@ -3,7 +3,6 @@ ul {
 }
 ul li {
   line-height: 30px;
-  margin-bottom: 10px;
 }
 ul li:nth-child(odd) {
   background-color: purple;

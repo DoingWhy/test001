@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+}
+ul li {
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+ul li:nth-child(odd) {
+  background-color: purple;
+}
+ul li:nth-child(even) {
+  background-color: hotpink;
+}

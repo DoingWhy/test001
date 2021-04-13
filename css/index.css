@@ -4,6 +4,7 @@ ul {
 ul li {
   font-style: italic;
   line-height: 30px;
+  margin-bottom: 10px;
   font-weight: 600;
 }
 ul li:nth-child(odd) {
